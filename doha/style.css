@@ -1,0 +1,140 @@
+*{
+margin:0%;
+padding:0%;	
+}
+
+.d1{
+color: black;	
+float: left;
+border-radius:100px;
+color: grey;	
+}
+ul{
+float: right;
+list-style: none;	
+}
+li{
+float: left;
+padding: 10px;
+font-size: 25px;
+color: white;	
+}
+nav{
+height: 65px;
+background-color: blue;
+}
+a{
+text-decoration:none;
+color: white;
+}
+.btn1{
+background-color: red;
+color: white;
+padding:5px;
+border-radius:100px;
+
+}
+.d3{
+margin-top:10px;
+text-align: center;
+color: blue;
+
+}
+.content{
+background-repeat:no-repeat;
+background-image:url("https://www.infomediaire.net/wp-content/uploads/2017/06/enseignement-superieur.jpg");
+height:600px;
+text-align:center;
+background-size:2000px;
+}
+.d2{
+padding:150px;
+}
+.tContent{
+	color: white;
+	font-size:50px;
+	
+}
+.btn1{
+	margin-top:20px;
+	
+}
+body{
+	background-color:beige;
+	
+	
+	
+}
+.c2{
+	width:70%;
+	float: left;
+	color:black;
+	font-size:20px;
+}
+p{
+	text-align: justify;
+	text-indent: 20px;
+}
+.secImg{
+	width: 30%;
+	float: right;
+}
+.img1{
+	position: relative;
+	height: 900px;
+	width: 350px;
+	float: right;
+}
+.btn2{
+background-color: red;
+color: white;
+padding: 10px;
+border-radius: 100px;
+margin-left: 20px;
+margin-top: 10px;
+}
+.d4{
+
+text-align: center;
+color: blue;
+padding-top: 20px;
+margin-left: 200px;
+}
+.d{
+width: 31%;
+height: 180px;
+float: left;
+color: black;
+padding: 10px;
+background-color: rgb(196,192,192);
+}
+h2{
+margin-bottom: 10px;
+text-align: center;
+}
+.d:hover{
+background-color: white;
+}
+.d5{
+text-align: center;
+color: blue;
+}
+.btn3{
+background-color: red;
+color: white;
+padding: 10px;
+border-radius: 100px;
+margin-left: 150px;
+}
+.form1{
+width:35%;
+float:left;
+
+}
+footer{
+background-color: blue;
+color: white;
+height: 40px;
+text-align: center;
+
+}
